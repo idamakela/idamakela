@@ -23,6 +23,7 @@ Let's connect and create user-centric experiences together! ✨
   <img alt="Express" src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=000" />
   <img alt="Nodemon" src="https://img.shields.io/badge/nodemon-fff?style=for-the-badge&logo=nodemon" />
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-fff?style=for-the-badge&logo=supabase" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase" />
   <img alt="Git" src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git" />
   <img alt="Prettier" src="https://img.shields.io/badge/prettier-fff?style=for-the-badge&logo=prettier" />
   <img alt="VS Code" src="https://img.shields.io/badge/vs code-fff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
