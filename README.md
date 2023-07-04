@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! I have a bachelor's degree in Psychology and I'm currently pursuing vocational studies in Frontend development with a focus on UX and human interaction. By merging these areas, I offer a distinct viewpoint to product development, leveraging my understanding of human behavior.
 
@@ -8,7 +8,7 @@ I'm particularly passionate about working on UX and human interaction in webpage
 
 Let's connect and create user-centric experiences together! ✨
 
-### My favorite tools to work with: 
+## My favorite tools to work with: 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/next.js 13-fff?style=for-the-badge&logo=nextdotjs&logoColor=000" />
   <img alt="React" src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react" />
@@ -32,7 +32,7 @@ Let's connect and create user-centric experiences together! ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idamakela&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-### Connect with me! 
+## Connect with me! 
 <p align="left">
 <a href="https://www.linkedin.com/in/makelaida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ida-linkedin" height="30" width="40" /></a>
 </p>
