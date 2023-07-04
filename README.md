@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I have a bachelor's degree in Psychology and I'm currently pursuing vocational studies in Frontend/App development with a focus on UX and human interaction. By merging these areas, I offer a distinct viewpoint to product development, leveraging my understanding of human behavior.
+Welcome to my GitHub profile! I have a bachelor's degree in Psychology and I'm currently pursuing vocational studies in Frontend development with a focus on UX and human interaction. By merging these areas, I offer a distinct viewpoint to product development, leveraging my understanding of human behavior.
 
-I tackle my work with a structured and results-oriented approach, breaking down tasks into smaller goals along the way. Collaboration is key for me, as I strongly believe that diverse expertise contributes to creating outstanding end products that prioritize user experience. Open and effective communication, along with a culture of mutual respect, are principles I hold dear when working with teams.
+I tackle my work with a structured and results-oriented approach, breaking down tasks into smaller goals. Collaboration is key for me, as I strongly believe that diverse expertise contributes to creating outstanding end products that prioritize user experience. Open and effective communication, along with a culture of mutual respect, are principles I hold dear when working with teams.
 
-I'm particularly passionate about working on UX and human interaction in webpages and applications. I'm actively seeking opportunities in this field and open to contributing to projects or internships. If you have any relevant positions or inquiries, please don't hesitate to reach out!
+I'm particularly passionate about working on UX and human interaction in webpages and applications while exploring my interest in backend development.
 
 Let's connect and create user-centric experiences together! ✨
 
