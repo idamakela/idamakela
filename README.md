@@ -6,7 +6,7 @@ I tackle my work with a structured and results-oriented approach, breaking tasks
 
 I'm particularly passionate about working on responsive design and human interaction in webpages and applications while further deepening my knowledge of front-end development technologies, like deep-diving into JavaScript with the freeCodeCamps course "JavaScript Algorithms and Data Structures". 
 
-Let's connect and create user-centric experiences together! ✨
+Let's connect and create user-friendly experiences together! ✨
 
 ## My favorite tools to work with: 
 <p>
