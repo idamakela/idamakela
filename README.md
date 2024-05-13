@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I have a bachelor's degree in Psychology and I'm c
 
 I tackle my work with a structured and results-oriented approach, breaking tasks into smaller goals. Collaboration is key for me, as diverse expertise contributes to creating outstanding end products that prioritize user experience. Open and effective communication and a culture of mutual respect are principles I hold dear when working with teams.
 
-I'm particularly passionate about working on responsive design and human interaction in webpages and applications while further deepening my knowledge of front-end development technologies, like deep-diving into JavaScript with the freeCodeCamps course "JavaScript Algorithms and Data Structures". 
+I'm particularly passionate about working on responsive design and human interaction in webpages and applications while further deepening my knowledge of front-end development technologies.
 
 Let's connect and create user-friendly experiences together! ✨
 
