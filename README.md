@@ -11,29 +11,29 @@ Let's connect and create user-friendly experiences together! ✨
 ## My favorite tools: 
 <div>
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=000" />
-  <!-- <img alt="React" src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react" /> -->
-  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript" /> -->
+  <img alt="React" src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-fff?style=for-the-badge&logo=typescript" />
-  <!-- <img alt="HTML 5" src="https://img.shields.io/badge/html5-fff?style=for-the-badge&logo=html5" /> -->
-  <!-- <img alt="CSS 3" src="https://img.shields.io/badge/css3-fff?style=for-the-badge&logo=css3&logoColor=1572B6" /> -->
-  <!-- <img alt="Css Modules" src="https://img.shields.io/badge/css modules-fff?style=for-the-badge&logo=cssmodules&logoColor=1572B6" /> -->
-  <!-- <img alt="Sass" src="https://img.shields.io/badge/sass-fff?style=for-the-badge&logo=sass" /> -->
+  <img alt="HTML 5" src="https://img.shields.io/badge/html5-fff?style=for-the-badge&logo=html5" />
+  <img alt="CSS 3" src="https://img.shields.io/badge/css3-fff?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img alt="Css Modules" src="https://img.shields.io/badge/css modules-fff?style=for-the-badge&logo=cssmodules&logoColor=1572B6" />
+  <img alt="Sass" src="https://img.shields.io/badge/sass-fff?style=for-the-badge&logo=sass" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind-fff?style=for-the-badge&logo=tailwindcss" />
-  <!-- <img alt="Vite" src="https://img.shields.io/badge/vite-fff?style=for-the-badge&logo=vite" /> -->
-  <!-- <img alt="npm" src="https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm" /> -->
+  <img alt="Vite" src="https://img.shields.io/badge/vite-fff?style=for-the-badge&logo=vite" />
   <img alt="Sanity" src="https://img.shields.io/badge/sanity-fff?style=for-the-badge&logo=sanity" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-fff?style=for-the-badge&logo=nodedotjs" />
   <img alt="Express" src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=000" />
-  <!-- <img alt="Nodemon" src="https://img.shields.io/badge/nodemon-fff?style=for-the-badge&logo=nodemon" /> -->
-  <!-- <img alt="Supabase" src="https://img.shields.io/badge/supabase-fff?style=for-the-badge&logo=supabase" /> -->
-  <!-- <img alt="Firebase" src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase" /> -->
+  <img alt="Nodemon" src="https://img.shields.io/badge/nodemon-fff?style=for-the-badge&logo=nodemon" />
+  <img alt="Supabase" src="https://img.shields.io/badge/supabase-fff?style=for-the-badge&logo=supabase" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase" />
   <img alt="yarn" src="https://img.shields.io/badge/yarn-fff?style=for-the-badge&logo=yarn" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm" />
   <img alt="Git" src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git" />
-  <!-- <img alt="Prettier" src="https://img.shields.io/badge/prettier-fff?style=for-the-badge&logo=prettier" /> -->
-  <!-- <img alt="Figma" src="https://img.shields.io/badge/figma-fff?style=for-the-badge&logo=figma" /> -->
-  <!-- <img alt="Postman" src="https://img.shields.io/badge/postman-fff?style=for-the-badge&logo=postman" /> -->
+  <img alt="Prettier" src="https://img.shields.io/badge/prettier-fff?style=for-the-badge&logo=prettier" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-fff?style=for-the-badge&logo=figma" />
+  <img alt="Postman" src="https://img.shields.io/badge/postman-fff?style=for-the-badge&logo=postman" />
   <img alt="Cypress" src="https://img.shields.io/badge/cypress-fff?style=for-the-badge&logo=cypress" />
-  <!-- <img alt="Jest" src="https://img.shields.io/badge/jest-fff?style=for-the-badge&logo=jest&logoColor=000"> -->
+  <img alt="Jest" src="https://img.shields.io/badge/jest-fff?style=for-the-badge&logo=jest&logoColor=000">
 </div>
 <p />
 
