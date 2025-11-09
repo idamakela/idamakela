@@ -26,7 +26,7 @@ Let's connect and create user-friendly experiences together! ✨
   <img alt="Express" src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=000" />
   <img alt="Nodemon" src="https://img.shields.io/badge/nodemon-fff?style=for-the-badge&logo=nodemon" />
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-fff?style=for-the-badge&logo=supabase" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase&logoColor=000" />
   <img alt="yarn" src="https://img.shields.io/badge/yarn-fff?style=for-the-badge&logo=yarn" />
   <img alt="npm" src="https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm&logoColor=CC3534" />
   <img alt="Git" src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git" />
@@ -35,6 +35,8 @@ Let's connect and create user-friendly experiences together! ✨
   <img alt="Postman" src="https://img.shields.io/badge/postman-fff?style=for-the-badge&logo=postman" />
   <img alt="Cypress" src="https://img.shields.io/badge/cypress-fff?style=for-the-badge&logo=cypress" />
   <img alt="Jest" src="https://img.shields.io/badge/jest-fff?style=for-the-badge&logo=jest&logoColor=000">
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-fff?style=for-the-badge&logo=vercel&logoColor=000">
+  <img alt="Render" src="https://img.shields.io/badge/render-fff?style=for-the-badge&logo=render&logoColor=000">
 </div>
 <p />
 
